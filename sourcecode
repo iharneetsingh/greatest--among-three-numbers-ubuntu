@@ -1,4 +1,4 @@
-echo "Harneet Singh"
+echo "Ayush Sharma"
 echo "Enter the first number"
 read first
 echo "Enter the second number"
@@ -9,12 +9,12 @@ if [ $first - gt $second ] ; then
 if [ $first - gt $third ] ; then
 echo -e "$ first is the greatest number"
 else
-echo -e "$ third is the greatest number"
+echo -e "$ third is greatest number"
 fi
 else
 if [ $second -gt $third ] ; then
-echo -e " $second is the greatest number"
+echo -e " $second is greatest number"
 else 
-echo -e " $third is the greatest number"
+echo -e " $third is greatest number"
 fi
 fi
