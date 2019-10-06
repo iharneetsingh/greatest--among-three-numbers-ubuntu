@@ -1,4 +1,4 @@
-echo "Harneet Singh"
+echo "Currency Converter"
 echo "Enter the first number"
 read first
 echo "Enter the second number"
